@@ -1,0 +1,14 @@
+{
+  "name": "urzedo/lucky-numbers",
+  "authors": [
+    {
+      "name": "Thiago Urzedo",
+      "email": "thiago.urzedo10@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Urzedo\\OffTopic\\": "src/"
+    }
+  }
+}
